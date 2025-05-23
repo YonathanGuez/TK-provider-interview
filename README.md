@@ -1,4 +1,4 @@
-# It Was an intresting technical Interview
+# It was an intresting technical Interview
 
 ## Introduction:
 
